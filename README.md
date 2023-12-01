@@ -2,8 +2,23 @@
 
 Hack program that converts binary numbers to decimal
 
+[Assignment submission page and details](https://online.saddleback.edu/courses/12376/modules/items/1096380)
+
+I've included the files from the page linked above in this repo for convenience.
+
+- ge_output_x.asm
+  - Font file
+- Bin2Dec.drawio.pdf
+  - Flowchart
+- Project3Rubric.pdf
+  - Grading rubric
+- GroupProject3documentationExamples.pdf
+  - Documentation example
+
 Functions should be prefixed with your first and last initial.
 DT/MT/FV/AG
+
+Make sure to properly comment and document your code!
 
 ## Roadmap
 
@@ -26,5 +41,5 @@ Behind-the-scenes program logic.
 
 | Item | Assignee | Status? |
 |------|----------|---------|
-| This | Member3 | :white_large_square: |
-| That | Member4 | ⬜ |
+| Checking for special case | <none> | :white_large_square: |
+| Two's Complement | Filip (@yosoyducc) | ⬜ |
