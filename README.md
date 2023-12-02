@@ -45,3 +45,7 @@ Behind-the-scenes program logic.
 |------|----------|---------|
 | Checking for special case | <none> | :white_large_square: |
 | Two's Complement | Filip (@yosoyducc) | ⬜ |
+
+# Changelog
+
+12/1/23 DT Finished function dt_getKey and created more detailed flowchart of getKey loop.
